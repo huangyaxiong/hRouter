@@ -5,7 +5,9 @@
 	"require": {
 		"php": ">=5.3.3"
 	},
-	
+    "extra": {
+	    "branch-alias": {"dev-master": "1.0.x-dev"}
+	},
 	"autoload": {
 		"psr-4": {"HKuan\\Hrouter\\": "src/"}
 	}
