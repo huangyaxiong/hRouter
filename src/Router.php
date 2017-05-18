@@ -1,5 +1,5 @@
 <?php
-namespace HKuan/HRouter
+namespace Hkuang\Hrouter;
 
 class Router{
 
