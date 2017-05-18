@@ -1,14 +1,12 @@
 {
-	"name": "hkuang/hrouter",
+	"name": "hkuan/hrouter",
 	"description": "Simple PHP router class.",
 	"license": "MIT",
 	"require": {
 		"php": ">=5.3.3"
 	},
-    "extra": {
-	    "branch-alias": {"dev-master": "1.0.x-dev"}
-	},
+	
 	"autoload": {
-		"psr-4": {"Hkuang\\Hrouter\\": ""}
+		"psr-4": {"Hkuan\\Hrouter\\": ""}
 	}
 }
