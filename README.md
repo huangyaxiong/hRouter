@@ -21,7 +21,7 @@ First, `use` the Macaw namespace:
 use /Hkuan/Hrouter\Router;
 ```
 
-Macaw is not an object, so you can just make direct operations to the class. Here's the Hello World:
+Hrouter is not an object, so you can just make direct operations to the class. Here's the Hello World:
 
 ```PHP
 
